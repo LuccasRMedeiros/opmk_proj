@@ -1,0 +1,6 @@
+[submodule "open_maker"]
+	path = open_maker
+	url = git@github.com:LuccasRMedeiros/open_maker.git
+[submodule "radiant_vivarium"]
+	path = radiant_vivarium
+	url = git@github.com:LuccasRMedeiros/radiant_vivarium.git
